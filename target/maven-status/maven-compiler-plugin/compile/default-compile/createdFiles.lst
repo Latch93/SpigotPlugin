@@ -1,0 +1,4 @@
+DefaultSpigotPlugin\Constants.class
+DefaultSpigotPlugin\DefaultSpigotPluginConfig.class
+DefaultSpigotPlugin\Api\Api.class
+DefaultSpigotPlugin\DefaultSpigotPlugin.class
