@@ -1,4 +1,7 @@
-name: DefaultSpigotPlugin
+name: LatchsTwitchBot
 version: 1.1
-main: DefaultSpigotPlugin.DefaultSpigotPlugin
+main: LatchsTwitchBot.LatchsTwitchBot
 api-version: 1.19
+commands:
+  twitch:
+    description: "Twitch Bot"

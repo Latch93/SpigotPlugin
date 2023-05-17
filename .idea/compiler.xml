@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="NoSpawn.yml" />
-        <module name="SpigotPlugin" />
+        <module name="LatchsTwitchBot" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpigotPlugin" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>

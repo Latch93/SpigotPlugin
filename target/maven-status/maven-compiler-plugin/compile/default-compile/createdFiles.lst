@@ -1,4 +1,11 @@
-DefaultSpigotPlugin\Constants.class
-DefaultSpigotPlugin\DefaultSpigotPluginConfig.class
-DefaultSpigotPlugin\Api\Api.class
-DefaultSpigotPlugin\DefaultSpigotPlugin.class
+Commands\LatchsTwitchBotCommands.class
+LatchsTwitchBot\LatchBot.class
+LatchsTwitchBot\MyLogFilter.class
+Listeners\HideOAuthTokenEvent.class
+LatchsTwitchBot\Api\Api.class
+Listeners\StopTwitchBotOnPlayerLogoutEvent.class
+LatchsTwitchBot\Constants.class
+LatchsTwitchBot\LatchsTwitchBotConfig.class
+LatchsTwitchBot\LatchTwitchBotRunnable.class
+LatchsTwitchBot\LatchsTwitchBot.class
+LatchsTwitchBot\TabComplete\LatchTwitchBotTabComplete.class

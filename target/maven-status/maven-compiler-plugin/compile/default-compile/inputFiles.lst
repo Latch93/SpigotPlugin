@@ -1,4 +1,11 @@
-E:\Projects\SpigotPlugin\src\main\java\DefaultSpigotPlugin\DefaultSpigotPlugin.java
-E:\Projects\SpigotPlugin\src\main\java\DefaultSpigotPlugin\Api\Api.java
-E:\Projects\SpigotPlugin\src\main\java\DefaultSpigotPlugin\DefaultSpigotPluginConfig.java
-E:\Projects\SpigotPlugin\src\main\java\DefaultSpigotPlugin\Constants.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\Constants.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\LatchsTwitchBotConfig.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\Api\Api.java
+E:\Projects\SpigotPlugin\src\main\java\Listeners\HideOAuthTokenEvent.java
+E:\Projects\SpigotPlugin\src\main\java\Listeners\StopTwitchBotOnPlayerLogoutEvent.java
+E:\Projects\SpigotPlugin\src\main\java\Commands\LatchsTwitchBotCommands.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\LatchBot.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\MyLogFilter.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\LatchTwitchBotRunnable.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\LatchsTwitchBot.java
+E:\Projects\SpigotPlugin\src\main\java\LatchsTwitchBot\TabComplete\LatchTwitchBotTabComplete.java
