@@ -68,7 +68,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>lmp.Main</mainClass>
+                            <mainClass>LatchsLuckPerms.LatchsLuckPerms</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
