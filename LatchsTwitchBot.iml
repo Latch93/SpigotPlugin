@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="IntelliGuard" name="Obfuscation">
+      <configuration>
+        <option name="yGuardJar" value="C:\Users\Latch\Downloads\yguard-bundle-4.0.0\yguard-bundle-4.0.0\lib\yguard-4.0.0.jar" />
+        <option name="inFile" value="E:\Projects\SpigotPlugin\out\LatchTwitchBot.jar" />
+        <option name="outFile" value="E:\Projects\SpigotPlugin\out\LatchTwitchBot-Out.jar" />
+        <option name="mainclass" value="LatchsTwitchBot.LatchsTwitchBot" />
+        <option name="namingScheme" value="best" />
+        <option name="jarConfig">
+          <JarConfig>
+            <option name="jarEntries">
+              <list>
+                <option value="E:\Projects\SpigotPlugin\target\classes" />
+                <option value="E:\Projects\SpigotPlugin\out\artifacts\LatchsTwitchBot.jar" />
+              </list>
+            </option>
+          </JarConfig>
+        </option>
+      </configuration>
+    </facet>
+  </component>
+</module>
