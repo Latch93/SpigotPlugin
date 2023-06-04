@@ -1,7 +1,7 @@
-name: LatchsTwitchBot
+name: LatchsLuckPerms
 version: 1.1
-main: LatchsTwitchBot.LatchsTwitchBot
+main: LatchsLuckPerms.LatchsLuckPerms
 api-version: 1.19
 commands:
-  twitch:
-    description: "Twitch Bot"
+  llp:
+    description: "Latch Luck Perms"
