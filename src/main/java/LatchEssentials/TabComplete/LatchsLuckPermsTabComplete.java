@@ -1,6 +1,6 @@
-package LatchsLuckPerms.TabComplete;
+package LatchEssentials.TabComplete;
 
-import LatchsLuckPerms.Constants;
+import LatchEssentials.Constants;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.TabCompleter;

@@ -1,7 +1,7 @@
 package Commands;
 
-import LatchsLuckPerms.Api.Api;
-import LatchsLuckPerms.Constants;
+import LatchEssentials.Api.Api;
+import LatchEssentials.Constants;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -14,7 +14,7 @@ import org.bukkit.entity.Player;
 public class LatchsLuckPermsCommands implements CommandExecutor {
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         Player player = (Player) sender;
-        FileConfiguration cfg = Api.loadConfig(Constants.PLUGIN_CONFIG_FILE_NAME);
+        FileConfiguration cfg = Api.loadConfig(Constants.LATCHS_LUCK_PERMS_CONFIG_FILE_NAME);
         if (Boolean.TRUE.equals(player.isOp())) {
             if (args[0].equalsIgnoreCase(Constants.GRANT_COMMAND)) {
                 String groupNameToGive = cfg.getString("groupNameToGrant");

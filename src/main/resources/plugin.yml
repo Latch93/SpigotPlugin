@@ -1,7 +1,9 @@
-name: LatchsLuckPerms
+name: LatchEssentials
 version: 1.1
-main: LatchsLuckPerms.LatchsLuckPerms
+main: LatchEssentials.Main
 api-version: 1.19
 commands:
   llp:
-    description: "Latch Luck Perms"
+    description: "Latchs Luck Perms"
+  lde:
+    description: "Latchs Disord Essentials"

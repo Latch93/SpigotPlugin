@@ -8,10 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="NoSpawn.yml" />
-        <module name="LatchsLuckPerms" />
+        <module name="LatchsDiscordEssentials" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="LatchsLuckPerms" target="16" />
       <module name="LatchsTwitchBot" target="16" />
       <module name="SpigotPlugin" target="16" />
     </bytecodeTargetLevel>
